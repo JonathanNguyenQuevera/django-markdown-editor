@@ -6,4 +6,5 @@ dist/
 *.pyc
 *note
 *backup*
+.vscode
 venv/
